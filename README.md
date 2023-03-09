@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Mangalekar</h1>
-<h3 align="center">Master s student at Dublin City University with a background in Industrial Automation in interested in embedded systems</h3>
+<h3 align="center">Masters student at Dublin City University with a background in Industrial Automation in interested in embedded systems</h3>
 
 - 🔭 I’m currently working on **Snapbite, Human action recognition**
 
